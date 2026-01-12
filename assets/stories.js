@@ -1,6 +1,6 @@
 export default [
-  "Love is a flower, you have got to let it grow. – John Lennon.",
-  "Love is when imperfection being perfection.",
-  "If someone takes responsibility without force, that is love.",
-  "Problem will loss just follow your flow"
+  "stop dulu aktivitasnya sebentar, ada pengumuman penting nih buat kamu",
+  "selamat! kamu berhasil unlock achievement, kita bareng terus kedepannya wkwk",
+  "hadiahnya bukan piring cantik ya, tapi versi aku yang makin hari makin bucin dan gamau jauh dari kamu",
+  "happy monthversary tanggal 12, sayang! makasih udah bertahan, level up terus ya kita! 🤍"
 ];
