@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "Hamudi", quotes: "Whatever happens, keep breathing" },
-    { author: "Hamudi", quotes: "I Love You 3000 Thousand ♥" },
-    { author: "Hamudi", quotes: "Hey! I so proud of you ♥" },
-    { author: "Hamudi", quotes: "I love you." },
-    { author: "Hamudi", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "Hamudi", quotes: "I love you." },
-    { author: "Hamudi", quotes: "I'm happy for loving you." },
+    { author: "Eryx", quotes: "Whatever happens, keep breathing" },
+    { author: "Eryx", quotes: "I Love You 3000 Thousand ♥"},
+    { author: "Eryx", quotes: "Hey! I so proud of you ♥" },
+    { author: "Eryx", quotes: "I love you ♥" },
+    { author: "Eryx", quotes: "I may not with you everyday, but I love you everyday." },
+    { author: "Eryx", quotes: "Love of my life ♥" },
+    { author: "Eryx", quotes: "I'm happy for loving you? ♥" },
 ];
