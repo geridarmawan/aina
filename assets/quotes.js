@@ -6,5 +6,5 @@ export default [
     { author: "Eryx", quotes: "I love you ♥" },
     { author: "Eryx", quotes: "I may not with you everyday, but I love you everyday." },
     { author: "Eryx", quotes: "Love of my life ♥" },
-    { author: "Eryx", quotes: "I'm happy for loving you? ♥" },
+    { author: "Eryx", quotes: "I'm happy for loving you ♥" },
 ];
